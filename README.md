@@ -4,4 +4,5 @@ we were to create an Excel sales analysis dashboard for a Kultra Megastore locat
 The raw data comprised four different tables namely; Orders, Customer Names, Users, and returns. we joined the tables using Excel Power Pivot. 
 The data went through Exploratory Data Analysis where we removed duplicates,  fixed Null values, Missing values, and removed Blanks, and extra whitespaces.
 We went ahead to create pivot tables and charts for the most profitable customers, highest corporate customers, Shipping cost by Shipping mode, and order priority, Shipping Cost by Mode, Ten lowest customers by revenue, Top five small business customers by sales, Most Profitable consumer customers, sales by product category, sales of appliances in Ontario, Three bottom regions by sales, and top three regions by sales.
+![image](https://github.com/mercy-svg/Excel-Sales-Analysis-Dashboard/assets/121724623/bc3b63cd-e36b-43cd-8301-ab3d46b3a635)
 
